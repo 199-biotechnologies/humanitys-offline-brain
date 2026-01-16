@@ -38,6 +38,24 @@ The components are:
 
 None of this requires inventing anything. It requires only the decision to assemble what already exists into a configuration that serves resilience rather than convenience.
 
+## Deployment
+
+Technical expertise is not required. The instructions in this guide can be executed by agentic AI systems—Claude Code, Codex, Cursor, or similar tools with terminal access and sufficient permissions. A non-technical person with the right hardware need only point an AI agent at this guide and grant it the ability to act. The system sets itself up.
+
+## Specialisation
+
+Not everyone needs a petabyte. The full corpus represents the sum of human knowledge, but individuals and communities can maintain focused subsets relevant to their circumstances:
+
+- **Agriculture and food production** — crop science, animal husbandry, soil management, preservation techniques
+- **Medicine and health** — diagnosis, treatment protocols, pharmacology, surgical procedures, public health
+- **Technology and fabrication** — engineering principles, manufacturing, electronics, materials science
+- **Energy systems** — solar, wind, generators, batteries, grid design, fuel production
+- **Basic survival** — water purification, shelter construction, navigation, emergency response
+
+A farmer does not need particle physics. A medic does not need architectural engineering. Smaller, specialised units require less storage, less compute, and less power—making the system accessible to those without datacentre resources.
+
+Communities can distribute knowledge across members. One household maintains the agricultural corpus. Another maintains medical literature. A third holds engineering references. Together, they preserve what none could hold alone. This is how libraries have always worked. This is how they can work again.
+
 ---
 
 The goal is not to replace the connected world but to ensure that its absence need not mean the absence of knowledge. The people who weathered the Black Death, the fall of Rome, the countless disruptions that history has delivered were not those who denied what was happening, nor those who surrendered to despair, but those who faced reality clearly while maintaining their capacity for purposeful action.
