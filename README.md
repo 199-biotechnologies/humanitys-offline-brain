@@ -10,7 +10,11 @@ This project is a hedge against that fragility.
 
 **Humanity's Offline Brain** is a self-contained system designed to preserve both human knowledge and the capacity to reason with it. It combines two elements that are useless without each other: a comprehensive archive of books and scientific literature, and a local language model capable of retrieving, synthesising, and applying that knowledge. Storage without intelligence is a graveyard of information. Intelligence without knowledge is an empty vessel. Together, they form something that could matter when nothing else works.
 
-When connectivity fails—whether through conflict, infrastructure collapse, or the slow erosion of institutions—those who possess local access to human knowledge will be positioned to continue learning, practising medicine, maintaining technology, and rebuilding. A doctor with access to medical literature and an AI capable of differential diagnosis is not helpless. An engineer with technical manuals and a reasoning system can solve problems that memory alone cannot address. A community with preserved scientific knowledge can continue where civilisation left off, rather than starting again from first principles.
+When connectivity fails—whether through conflict, infrastructure collapse, or the slow erosion of institutions—those who possess local access to human knowledge will be positioned to continue learning, practising medicine, maintaining technology, and rebuilding.
+
+This matters because language models do not merely retrieve information—they reason with it. A general practitioner with an LLM has the diagnostic capabilities of an oncologist, a cardiologist, a neurologist working alongside them. An engineer gains the expertise to design circuits, model structures, solve problems outside their training. Expertise becomes accessible to anyone who can ask a question. When specialists are unavailable, generalists equipped with these tools can perform like specialists. The knowledge of a thousand experts, made portable and local.
+
+A community with preserved scientific knowledge and the means to reason with it can continue where civilisation left off, rather than starting again from first principles.
 
 This is not survivalism. It is prudence.
 
