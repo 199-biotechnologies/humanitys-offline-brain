@@ -20,19 +20,11 @@ This is not survivalism. It is prudence.
 
 This project is a guide to building your own.
 
-## Feasibility
+The hardware exists today. A curated corpus of essential knowledge fits on hard drives that cost less than a used car. Open-source language models approach frontier performance on consumer hardware—a single workstation, powered by solar or generator, running indefinitely without connection to anything. None of this requires inventing anything. It requires only the decision to assemble what already exists.
 
-The hardware exists today. A curated corpus of humanity's essential knowledge—scientific literature, technical manuals, reference works—fits on a rack of hard drives once duplicates are removed, low-value publications filtered, and texts converted to searchable formats. Open-source language models now approach frontier performance and run on consumer hardware: a Mac Studio or a modest GPU workstation. Power independence is solved technology—solar, generator, or battery can sustain storage drives and a single compute node indefinitely.
+Technical expertise is not required. The instructions in this guide can be executed by AI agents with terminal access. A non-technical person need only point an agent at this guide and grant it permission to act.
 
-None of this requires inventing anything. It requires only the decision to assemble what already exists into a configuration that serves resilience rather than convenience.
-
-## Deployment
-
-Technical expertise is not required. The instructions in this guide can be executed by agentic AI systems with terminal access and sufficient permissions. A non-technical person with the right hardware need only point an AI agent at this guide and grant it the ability to act. The system sets itself up.
-
-## Specialisation
-
-Not everyone needs everything. A farmer does not need particle physics. A medic does not need architectural engineering. Individuals can maintain focused subsets—requiring less storage, less compute, less power. Communities can distribute domains across households, each preserving what none could hold alone. This is how libraries have always worked.
+Not everyone needs everything. Individuals can maintain focused subsets—medicine, agriculture, engineering—requiring less hardware, less power. Communities can distribute domains across households, each preserving what none could hold alone. This is how libraries have always worked.
 
 ---
 
