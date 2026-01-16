@@ -14,20 +14,9 @@ The premise is simple. When connectivity fails—whether through conflict, infra
 
 This is not survivalism. It is prudence.
 
-The system is designed to run on hardware that can be powered independently—solar, generator, or battery. It requires no internet connection once deployed. It can be replicated, distributed, and maintained by anyone with modest technical capability. The knowledge it contains belongs to humanity; the tools to access it should be equally available.
+The system is designed to run on hardware that can be powered independently—solar, generator, or battery. It requires no internet connection once deployed. It can be replicated, distributed, and maintained by anyone with modest technical capability.
 
-What we preserve:
-
-- Scientific literature across disciplines—medicine, engineering, agriculture, chemistry, physics, biology
-- Technical manuals and practical guides
-- Historical and philosophical works that provide context and meaning
-- Reference materials that encyclopaedic knowledge requires
-
-What we provide:
-
-- A local language model capable of search, synthesis, and reasoning
-- Retrieval systems that connect questions to relevant sources
-- An interface simple enough to use under stress
+This project is a guide to building your own.
 
 ## Feasibility
 
