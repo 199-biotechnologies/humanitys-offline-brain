@@ -29,6 +29,28 @@ What we provide:
 - Retrieval systems that connect questions to relevant sources
 - An interface simple enough to use under stress
 
+## Feasibility
+
+This is not speculative. The hardware exists today.
+
+The entirety of scientific literature—journals, papers, preprints—combined with a curated library of essential books amounts to roughly one petabyte. That number shrinks considerably when duplicates are removed, low-value publications are filtered, and texts are converted to efficient, searchable formats like EPUB or Markdown. A curated corpus of humanity's essential knowledge fits on a rack of hard drives that costs less than a used car.
+
+The computational requirements are equally modest. A Mac Studio with an M-series Ultra chip, or a workstation with consumer-grade Nvidia GPUs, can run open-source language models that approach the performance of frontier systems. Models like Llama, Mistral, Qwen, and DeepSeek have demonstrated that capable reasoning no longer requires datacentre-scale infrastructure. What once demanded millions in hardware now runs on a desk.
+
+Power independence is solved technology. A solar array sized for a household, a generator with stored fuel, or a battery bank charged during stable times—any of these can sustain the modest draw of storage drives and a single compute node. The system need not run continuously; it need only be available when needed.
+
+The components are:
+
+- **Storage**: Hard drives or SSDs holding the curated archive—searchable, indexed, and organised by domain
+- **Compute**: Apple Silicon or Nvidia GPUs capable of running 70B+ parameter models at reasonable speed
+- **Power**: Solar panels, generator, or battery systems providing off-grid capability
+- **Models**: Open-source large language models with retrieval-augmented generation over the local corpus
+- **Interface**: A simple local application for query and conversation
+
+None of this requires inventing anything. It requires only the decision to assemble what already exists into a configuration that serves resilience rather than convenience.
+
+---
+
 The goal is not to replace the connected world but to ensure that its absence need not mean the absence of knowledge. The people who weathered the Black Death, the fall of Rome, the countless disruptions that history has delivered were not those who denied what was happening, nor those who surrendered to despair, but those who faced reality clearly while maintaining their capacity for purposeful action.
 
 This project exists so that purposeful action remains possible—even when the screens go dark.
