@@ -44,17 +44,7 @@ Technical expertise is not required. The instructions in this guide can be execu
 
 ## Specialisation
 
-Not everyone needs a petabyte. The full corpus represents the sum of human knowledge, but individuals and communities can maintain focused subsets relevant to their circumstances:
-
-- **Agriculture and food production** — crop science, animal husbandry, soil management, preservation techniques
-- **Medicine and health** — diagnosis, treatment protocols, pharmacology, surgical procedures, public health
-- **Technology and fabrication** — engineering principles, manufacturing, electronics, materials science
-- **Energy systems** — solar, wind, generators, batteries, grid design, fuel production
-- **Basic survival** — water purification, shelter construction, navigation, emergency response
-
-A farmer does not need particle physics. A medic does not need architectural engineering. Smaller, specialised units require less storage, less compute, and less power—making the system accessible to those without datacentre resources.
-
-Communities can distribute knowledge across members. One household maintains the agricultural corpus. Another maintains medical literature. A third holds engineering references. Together, they preserve what none could hold alone. This is how libraries have always worked. This is how they can work again.
+Not everyone needs a petabyte. A farmer does not need particle physics. A medic does not need architectural engineering. Individuals can maintain focused subsets—medicine, agriculture, fabrication, survival—requiring less storage, less compute, less power. Communities can distribute domains across households, each preserving what none could hold alone. This is how libraries have always worked.
 
 ---
 
