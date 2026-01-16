@@ -10,41 +10,25 @@ This project is a hedge against that fragility.
 
 **Humanity's Offline Brain** is a self-contained system designed to preserve both human knowledge and the capacity to reason with it. It combines two elements that are useless without each other: a comprehensive archive of books and scientific literature, and a local language model capable of retrieving, synthesising, and applying that knowledge. Storage without intelligence is a graveyard of information. Intelligence without knowledge is an empty vessel. Together, they form something that could matter when nothing else works.
 
-The premise is simple. When connectivity fails—whether through conflict, infrastructure collapse, or the slow erosion of institutions—those who possess local access to human knowledge will be positioned to continue learning, practising medicine, maintaining technology, and rebuilding. A doctor in a bunker with access to medical literature and an AI capable of differential diagnosis is not helpless. An engineer with technical manuals and a reasoning system can solve problems that memory alone cannot address. A community with preserved scientific knowledge can continue where civilisation left off, rather than starting again from first principles.
+When connectivity fails—whether through conflict, infrastructure collapse, or the slow erosion of institutions—those who possess local access to human knowledge will be positioned to continue learning, practising medicine, maintaining technology, and rebuilding. A doctor with access to medical literature and an AI capable of differential diagnosis is not helpless. An engineer with technical manuals and a reasoning system can solve problems that memory alone cannot address. A community with preserved scientific knowledge can continue where civilisation left off, rather than starting again from first principles.
 
 This is not survivalism. It is prudence.
-
-The system is designed to run on hardware that can be powered independently—solar, generator, or battery. It requires no internet connection once deployed. It can be replicated, distributed, and maintained by anyone with modest technical capability.
 
 This project is a guide to building your own.
 
 ## Feasibility
 
-This is not speculative. The hardware exists today.
-
-The entirety of scientific literature—journals, papers, preprints—combined with a curated library of essential books amounts to roughly one petabyte. That number shrinks considerably when duplicates are removed, low-value publications are filtered, and texts are converted to efficient, searchable formats like EPUB or Markdown. A curated corpus of humanity's essential knowledge fits on a rack of hard drives that costs less than a used car.
-
-The computational requirements are equally modest. A Mac Studio with an M-series Ultra chip, or a workstation with consumer-grade Nvidia GPUs, can run open-source language models that approach the performance of frontier systems. Models like Llama, Mistral, Qwen, and DeepSeek have demonstrated that capable reasoning no longer requires datacentre-scale infrastructure. What once demanded millions in hardware now runs on a desk.
-
-Power independence is solved technology. A solar array sized for a household, a generator with stored fuel, or a battery bank charged during stable times—any of these can sustain the modest draw of storage drives and a single compute node. The system need not run continuously; it need only be available when needed.
-
-The components are:
-
-- **Storage**: Hard drives or SSDs holding the curated archive—searchable, indexed, and organised by domain
-- **Compute**: Apple Silicon or Nvidia GPUs capable of running 70B+ parameter models at reasonable speed
-- **Power**: Solar panels, generator, or battery systems providing off-grid capability
-- **Models**: Open-source large language models with retrieval-augmented generation over the local corpus
-- **Interface**: A simple local application for query and conversation
+The hardware exists today. A curated corpus of humanity's essential knowledge—scientific literature, technical manuals, reference works—fits on a rack of hard drives once duplicates are removed, low-value publications filtered, and texts converted to searchable formats. Open-source language models now approach frontier performance and run on consumer hardware: a Mac Studio or a modest GPU workstation. Power independence is solved technology—solar, generator, or battery can sustain storage drives and a single compute node indefinitely.
 
 None of this requires inventing anything. It requires only the decision to assemble what already exists into a configuration that serves resilience rather than convenience.
 
 ## Deployment
 
-Technical expertise is not required. The instructions in this guide can be executed by agentic AI systems—Claude Code, Codex, Cursor, or similar tools with terminal access and sufficient permissions. A non-technical person with the right hardware need only point an AI agent at this guide and grant it the ability to act. The system sets itself up.
+Technical expertise is not required. The instructions in this guide can be executed by agentic AI systems with terminal access and sufficient permissions. A non-technical person with the right hardware need only point an AI agent at this guide and grant it the ability to act. The system sets itself up.
 
 ## Specialisation
 
-Not everyone needs a petabyte. A farmer does not need particle physics. A medic does not need architectural engineering. Individuals can maintain focused subsets—medicine, agriculture, fabrication, survival—requiring less storage, less compute, less power. Communities can distribute domains across households, each preserving what none could hold alone. This is how libraries have always worked.
+Not everyone needs everything. A farmer does not need particle physics. A medic does not need architectural engineering. Individuals can maintain focused subsets—requiring less storage, less compute, less power. Communities can distribute domains across households, each preserving what none could hold alone. This is how libraries have always worked.
 
 ---
 
